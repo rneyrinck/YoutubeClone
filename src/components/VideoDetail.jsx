@@ -34,7 +34,7 @@ const VideoDetail = () => {
           <Box sx={{ width: "100%", position: "sticky", top: "86px" }}>
             <ReactPlayer
               url={`https://www.youtube.com/watch?v=${id}`}
-              classname="react-player"
+              className="react-player"
               controls
             />
             <Typography color="#fff" variant="h5" fontWeight="bold" p={2}>
