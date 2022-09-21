@@ -1,7 +1,7 @@
 {
   "name": "youtubeclone",
   "version": "0.1.0",
-  "homepage": "https://rneyrinck.github.io/YoutubeClone",
+  "homepage": "https://rneyrinck.github.io/youtubeclone",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.0",
