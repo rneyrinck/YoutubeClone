@@ -2,7 +2,7 @@
   "name": "youtubeclone",
   "version": "0.1.0",
   "homepage": "https://rneyrinck.github.io/youtubeclone",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
